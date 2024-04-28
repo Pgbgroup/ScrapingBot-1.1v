@@ -29,7 +29,7 @@ if not os.path.exists('data.csv'):
     open("data.csv","w")
 APP_ID = "9914709"
 API_HASH = "b3e7cb5ef23aaa7eb618a63d62405e1d"
-BOT_TOKEN = "5257590399:AAFRQShE0n09Xx886O7KRRgFaetSFIjmE4Y"
+BOT_TOKEN = "7197949449:AAGEbo3onUwbbp0jxjS5U0ddFqLfJOb70VY"
 UPDATES_CHANNEL = "Pgbgroup"
 OWNER= [1629550450]
 PREMIUM=[1629550450]
